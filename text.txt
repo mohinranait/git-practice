@@ -2,5 +2,4 @@ Mohin Rana is a programmer.
 Mohin rana is Web developer.
 Developer added
 
-# Mohin Rana added text
-
+# Markedown file Mohin Rana
